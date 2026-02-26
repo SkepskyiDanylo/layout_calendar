@@ -17,7 +17,6 @@
   gap: $gap;
   width: (7 * $cell-size) + ($padding * 2) + ($gap * 6);
   padding: $padding;
-  margin-left: 20px;
 
   &__day {
     width: $cell-size;
