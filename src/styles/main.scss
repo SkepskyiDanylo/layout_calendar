@@ -15,7 +15,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: $gap;
-  width: (7 * $cell-size) + ($padding * 2) + ($gap * 6);
+  width: (7 * $cell-size) + ($gap * 6);
   padding: $padding;
 
   &__day {
